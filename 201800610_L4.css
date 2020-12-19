@@ -1,0 +1,149 @@
+#title
+{
+  background-color: #EAF6F6;
+}
+h1
+{
+    text-align: center;
+     font-family:"Montserrat",sans-serif;
+     font-size: 4.5 rem;
+     list-style: 1.5;
+     font-weight: 900;
+     color:#66BFBF;
+
+}
+.container-fluid
+{
+  padding: 3% 15%;
+}
+a
+{
+  font-family: "Montserrat", sans-serif;
+  font-weight:400;
+}
+.navbar-toggler
+{
+  color:#67BCD5;
+}
+.navbar-brand
+{
+  font-family: "ubuntu";
+  font-weight:700;
+  font-size:2.5rem;
+}
+.navbar
+{
+  padding:0 0 4.5rem 0;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.tulip_photo
+{
+  width:60%;
+  top:50px;
+}
+.design
+{
+  color: #66BFBF;
+  position:relative;
+  left:5%;
+  padding-bottom: 10px;
+}
+.design:hover
+{
+  color: #67BCD5;
+  text-align: center;
+
+}
+.about
+{
+  font-family:"Montserrat";
+  font-weight:600;
+  font-size:1.5rem;
+  text-align: center;
+}
+.about-text
+{
+  color:#8f8f8f;
+  text-align: center;
+  padding: 5%;
+}
+#about
+{
+  padding: 7% 15%;
+  background-color:white;
+  position:relative;
+  z-index:1;
+}
+#photography
+{
+
+  text-align:center;
+  background-color:#EAF6F6;
+}
+.photography
+{
+  color:#66BFBF;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 2;
+}
+.photography-text
+{
+  font-family: "Montserrat";
+  color:#66BFBF;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 2;
+}
+.carousel-inner
+{
+    padding: 7% 15%;
+}
+#info
+{
+  padding:100px;
+  text-align: left;
+}
+.resume{
+  text-align: center;
+}
+#skills
+{
+  background-color:#EAF6F6;
+  padding: 7% 15%;
+  text-align: center;
+}
+.last
+{
+  font-family: "Montserrat";
+  color:#66BFBF;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.design2
+{
+  color: #66BFBF;
+  position:relative;
+  left5%;
+  padding-bottom: 10px;
+}
+.design2:hover
+{
+  color: #67BCD5;
+  text-align: center;
+
+}
+#footer
+{
+  text-align:center;
+  padding: 7% 15%;
+}
+.end
+{
+  padding: 0% 1%;
+}
